@@ -4,8 +4,20 @@ body {
     background-size: cover;
 }
 
+.dudes{
+
+}
+
+.diostatue{
+
+}
+
 main{
-    margin:25px;
-     background-color: grey;
+    margin:auto;
+    padding: 10px 50px 50px 100px;
+    width: 800px;
+    background-image: url(../images/plesantgradient.png);
+    line-height: 1.5em;
     font-size: medium;
+
 }
