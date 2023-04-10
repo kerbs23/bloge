@@ -1,0 +1,23 @@
+body {
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dudes{
+
+}
+
+.diostatue{
+
+}
+
+main{
+    margin:auto;
+    padding: 10px 50px 50px 100px;
+    width: 800px;
+    background-image: url(../images/plesantgradient.png);
+    line-height: 1.5em;
+    font-size: medium;
+
+}
